@@ -1,0 +1,5 @@
+Cluster_ID,Name,Size,Percentage,Avg_Expenditure,Avg_Credit,Sentiment
+0,Mobile App Users,1577,30.3%,"₦151,146",619,0.07
+1,Traditional USSD Users,1284,24.7%,"₦150,655",620,0.09
+2,Engaged Mobile Users,1291,24.8%,"₦151,995",620,0.07
+3,Standard Mobile Users,1048,20.2%,"₦152,180",620,0.08
