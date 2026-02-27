@@ -1,0 +1,10 @@
+streamlit
+fastapi 
+spacy
+uvicorn
+pandas
+numpy
+scikit-learn
+plotly
+vaderSentiment
+joblib
